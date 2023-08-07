@@ -1,0 +1,10 @@
+c:\users\joao.marques\documents\visual studio 2012\Projects\Vbnet_Graus_MinutosSegundos\Vbnet_Graus_MinutosSegundos\bin\Debug\Vbnet_Graus_MinutosSegundos.exe.config
+c:\users\joao.marques\documents\visual studio 2012\Projects\Vbnet_Graus_MinutosSegundos\Vbnet_Graus_MinutosSegundos\bin\Debug\Vbnet_Graus_MinutosSegundos.exe
+c:\users\joao.marques\documents\visual studio 2012\Projects\Vbnet_Graus_MinutosSegundos\Vbnet_Graus_MinutosSegundos\bin\Debug\Vbnet_Graus_MinutosSegundos.pdb
+c:\users\joao.marques\documents\visual studio 2012\Projects\Vbnet_Graus_MinutosSegundos\Vbnet_Graus_MinutosSegundos\bin\Debug\Vbnet_Graus_MinutosSegundos.xml
+c:\users\joao.marques\documents\visual studio 2012\Projects\Vbnet_Graus_MinutosSegundos\Vbnet_Graus_MinutosSegundos\obj\Debug\Vbnet_Graus_MinutosSegundos.frmConversao.resources
+c:\users\joao.marques\documents\visual studio 2012\Projects\Vbnet_Graus_MinutosSegundos\Vbnet_Graus_MinutosSegundos\obj\Debug\Vbnet_Graus_MinutosSegundos.Resources.resources
+c:\users\joao.marques\documents\visual studio 2012\Projects\Vbnet_Graus_MinutosSegundos\Vbnet_Graus_MinutosSegundos\obj\Debug\Vbnet_Graus_MinutosSegundos.vbproj.GenerateResource.Cache
+c:\users\joao.marques\documents\visual studio 2012\Projects\Vbnet_Graus_MinutosSegundos\Vbnet_Graus_MinutosSegundos\obj\Debug\Vbnet_Graus_MinutosSegundos.exe
+c:\users\joao.marques\documents\visual studio 2012\Projects\Vbnet_Graus_MinutosSegundos\Vbnet_Graus_MinutosSegundos\obj\Debug\Vbnet_Graus_MinutosSegundos.xml
+c:\users\joao.marques\documents\visual studio 2012\Projects\Vbnet_Graus_MinutosSegundos\Vbnet_Graus_MinutosSegundos\obj\Debug\Vbnet_Graus_MinutosSegundos.pdb
